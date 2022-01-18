@@ -1,0 +1,2 @@
+C:\Users\User\Documents\school stuff\data structures and algorithm\programs\tutorial_1\helloAll\Debug\helloAll.exe
+C:\Users\User\Documents\school stuff\data structures and algorithm\programs\tutorial_1\helloAll\Debug\helloAll.pdb
